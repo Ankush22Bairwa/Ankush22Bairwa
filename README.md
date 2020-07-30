@@ -2,7 +2,8 @@
 
 
 [![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=Ankush22Bairwa)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+
+About Me:
 
 - 🔭 I’m currently working on Django/React based project
 - 🌱 I’m currently learning ReactJS
