@@ -5,10 +5,9 @@
 
 About Me:
 
-- 🔭 I’m currently working on Django/React based project
+- 🔭 I’m currently working on Full Stack project
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on MediOne
-- 🤔 I’m looking for help with Django developers
+- 🤔 I’m looking for help with Python developers
 - 💬 Ask me about Football ⚽
 - 📫 How to reach me: ankushbairwa22@gmail.com
 
