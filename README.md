@@ -5,9 +5,9 @@
 
 About Me:
 
-- 🔭 I’m currently working on Full Stack project
-- 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for help with Python developers
+- 🔭 I’m currently working as a backend developer.
+- 🌱 I’m currently learning about designing scalable systems.
+- 🤔 I’m looking for help with great engineers.
 - 💬 Ask me about Football ⚽
 - 📫 How to reach me: ankushbairwa22@gmail.com
 
